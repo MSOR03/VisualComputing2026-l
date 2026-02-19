@@ -1,0 +1,4 @@
+Format,Vertices,Unique Vertices,Duplicate Vertices,Faces,Unique Faces,Duplicate Faces,Vertex Normals,Face Normals,Is Watertight,Is Winding Consistent,Volume,Surface Area
+OBJ,4259,1570,2689,2570,2570,0,4259,2570,False,True,N/A,1267.5512533189628
+STL,1570,1570,0,2570,2570,0,1570,2570,False,True,N/A,1267.5512660197637
+GLTF,4259,1570,2689,2570,2570,0,4259,2570,False,True,N/A,1267.5512660197637

@@ -1,0 +1,18 @@
+================================================================================
+3D MODEL FORMAT COMPARISON REPORT
+================================================================================
+
+Original Model: ..\media\source\Free_SciFi-Fighter.zip\Free_SciFi-Fighter\Free-Scifi-Fighter.obj
+Date: 2026-02-17
+
+Format  Vertices  Unique Vertices  Duplicate Vertices  Faces  Unique Faces  Duplicate Faces  Vertex Normals  Face Normals  Is Watertight  Is Winding Consistent Volume  Surface Area
+   OBJ      4259             1570                2689   2570          2570                0            4259          2570          False                   True    N/A   1267.551253
+   STL      1570             1570                   0   2570          2570                0            1570          2570          False                   True    N/A   1267.551266
+  GLTF      4259             1570                2689   2570          2570                0            4259          2570          False                   True    N/A   1267.551266
+
+================================================================================
+SUMMARY
+================================================================================
+All formats maintain the same geometry: True
+Duplicate vertices found: True
+All formats are watertight: False
