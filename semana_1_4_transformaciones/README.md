@@ -622,7 +622,7 @@ M = T(px, py) × R(𝜃) × T(-px, -py)
 - [x] README.md completo con todas las secciones requeridas
 - [x] Código limpio, comentado y estructurado
 - [x] GIFs exportados en carpeta `media/`
-- [ ] Capturas de pantalla Three.js en `media/screenshots/` ⚠️
+- [x] Capturas de pantalla Three.js en `media/screenshots/` ⚠️
 - [x] Commits descriptivos en inglés
 - [x] Carpeta nombrada correctamente: `semana_1_4_transformaciones`
 
