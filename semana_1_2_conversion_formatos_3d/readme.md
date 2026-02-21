@@ -96,7 +96,6 @@ Visor web interactivo de modelos 3D con interfaz moderna y responsive.
 ![Interfaz Completa](media/screenshots/threejs_ui.png)
 *Panel de información compacto con estadísticas del modelo*
 
-> **Nota:** Las capturas de pantalla deben colocarse en la carpeta `media/screenshots/`
 
 ---
 
